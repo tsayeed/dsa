@@ -1,3 +1,13 @@
 {
-  "packageManager": "yarn@3.2.1"
+  "name": "dsa",
+	"description": "Collection of useful data structures and algorithms",
+	"version": "0.0.1",
+	"author": "Tahsin Sayeed",
+	"license": "MIT",
+	"main": "src/index.js",
+  "packageManager": "yarn@3.2.1",
+
+	"scripts": {
+		"test": "echo \"Error: not implemented\" && exit 1"
+	}
 }
